@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*_violations.log
+.DS_Store
